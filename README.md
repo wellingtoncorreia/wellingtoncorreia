@@ -6,7 +6,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellingtoncorreia&show_icons=true&theme=radical)](https://github.com/wellingtoncorreia)
  
-  <img style="border-radius:50%; width:100px; height:100px" url="https://github.com/user-attachments/assets/5954a0d6-dde1-4d2c-80c7-4fc658c7c6a8">
+  <img url="https://github.com/user-attachments/assets/5954a0d6-dde1-4d2c-80c7-4fc658c7c6a8">
 ---
 
 ### Most Used Languages

@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/1ae640fe-8191-4792-b8d0-e2a540179d66"  />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/1ae640fe-8191-4792-b8d0-e2a540179d66"  />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtoncorreia&layout=compact&theme=radical)](https://github.com/wellingtoncorreia)
 ###
@@ -45,7 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" />
 
 
 ###

@@ -5,7 +5,9 @@
 ## Wellington Borsato's GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellingtoncorreia&show_icons=true&theme=radical)](https://github.com/wellingtoncorreia)
-
+<div style="border-radius:50%; width:100px; height:100px">
+  ![OIG1](https://github.com/user-attachments/assets/5954a0d6-dde1-4d2c-80c7-4fc658c7c6a8)
+</div>
 ---
 
 ### Most Used Languages
@@ -28,6 +30,6 @@
 
 ### Conecte-se Comigo
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com) `Professor-café#professorcafe`
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-correia-borsato-junior-3a8732a8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wellingtonti.fkb@gmail.com)

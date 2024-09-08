@@ -4,9 +4,15 @@
 
 ## Wellington Borsato's GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellingtoncorreia&show_icons=true&theme=radical)](https://github.com/wellingtoncorreia)
- 
-  ![image](https://github.com/user-attachments/assets/081ea921-6bfb-4fa7-af66-c02093f54010)
+<div style="display: flex; align-items: center;">
+
+  <!-- Imagem redonda -->
+  <img src="https://github.com/user-attachments/assets/081ea921-6bfb-4fa7-af66-c02093f54010" alt="Wellington's Avatar" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;"/>
+
+  <!-- GitHub Stats -->
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellingtoncorreia&show_icons=true&theme=radical)](https://github.com/wellingtoncorreia)
+
+</div>
 
 ---
 
@@ -30,6 +36,6 @@
 
 ### Conecte-se Comigo
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/EpgYDaFH) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-correia-borsato-junior-3a8732a8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wellingtonti.fkb@gmail.com)

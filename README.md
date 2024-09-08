@@ -1,41 +1,71 @@
-# Oiii! Eu sou o Wellington Correia Borsato Junior 👋
+<h2 align="left">Oiii! Eu sou o Wellington Correia Borsato Junior 👋</h2>
 
----
+###
 
-## Wellington Borsato's GitHub Stats
-
-<div style="display: flex; align-items: center;">
-
-  <!-- Imagem redonda -->
-  <img src="https://github.com/user-attachments/assets/081ea921-6bfb-4fa7-af66-c02093f54010" alt="Wellington's Avatar" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;"/>
-
-  <!-- GitHub Stats -->
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellingtoncorreia&show_icons=true&theme=radical)](https://github.com/wellingtoncorreia)
-
-</div>
-
----
-
-### Most Used Languages
+<img align="right" height="150" src="https://github.com/user-attachments/assets/1ae640fe-8191-4792-b8d0-e2a540179d66"  />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtoncorreia&layout=compact&theme=radical)](https://github.com/wellingtoncorreia)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/EpgYDaFH" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="wellingtonti.fkb@gmail.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/wellington-correia-borsato-junior-3a8732a8/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" />
+
+
+###
+
+## Sobre Mim
+Sou um engenheiro de software com experiência em diversas tecnologias, incluindo Java, Spring Boot, Node.js, React, Angular e React Native. Atuo no desenvolvimento de aplicações tanto para web quanto mobile, além de ter conhecimento em UI/UX e deploy de aplicações REST.
 
 ---
 
-### Tecnologias
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+## Formação Acadêmica
+- **Ciências da Computação** - IIES (2011-2015)
+- **Docência no Ensino Superior** - UNOPAR (2022)
+- **Especialização em Docência para Educação Profissional e Tecnológica** - IFSP (2022-2023)
+- **Especialização Full Stack Java Developer** - Faculdade VINCIT (2023 - Cursando)
+- **Licenciatura em Matemática** - IFSP (2024 - Cursando)
 
 ---
 
-### Conecte-se Comigo
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/EpgYDaFH) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-correia-borsato-junior-3a8732a8)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wellingtonti.fkb@gmail.com)
+## Certificações
+- IA Generativa na Prática Pedagógica
+- Arquitetura de Redes com IoT
+- Projetos Ágeis com Scrum
+- Machine Learning Solutions on Vertex AI

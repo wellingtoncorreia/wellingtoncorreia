@@ -6,7 +6,8 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellingtoncorreia&show_icons=true&theme=radical)](https://github.com/wellingtoncorreia)
  
-  <img url="https://github.com/user-attachments/assets/5954a0d6-dde1-4d2c-80c7-4fc658c7c6a8">
+  ![image](https://github.com/user-attachments/assets/081ea921-6bfb-4fa7-af66-c02093f54010)
+
 ---
 
 ### Most Used Languages

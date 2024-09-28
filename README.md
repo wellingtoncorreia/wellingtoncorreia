@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/user-attachments/assets/1ae640fe-8191-4792-b8d0-e2a540179d66"  />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/d18a0bf7-0319-4e61-a5f5-ed93b743ead7"  />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtoncorreia&layout=compact&theme=radical)](https://github.com/wellingtoncorreia)
 ###

@@ -43,9 +43,11 @@
 
 ###
 
+###
+
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" />
 
 ###
 
